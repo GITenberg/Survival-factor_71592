@@ -1,0 +1,31 @@
+_repo: Survival-factor_71592
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Vet, Charles V.
+    aliases:
+    - DeVet, Charles V.
+    - Vet, Charles V. de
+    - Vet, Charles Vincent de
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71592'
+language: en
+pgterms:marc905: 20230820090302devet
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Survival factor
+url: http://www.gutenberg.org/ebooks/71592
